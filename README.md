@@ -3,7 +3,7 @@
 <p id="description">Demo project for listing applying viewing saving and filtering job. in this project there are features like profile creation Company profile posting jobs and many more I had created this project some time ago to solidify my skills in Laravel.</p>
 
 <h2>Project Screenshots:</h2>
-![Alt text]([/relative/path/to/img.jpg?raw=true ](https://github.com/salmansaeed-dev/jobportal/blob/main/public/assets/images/ejblF2Z%20-%20Imgur.png)"Optional Title")
+![Alt text](public/assets/images/ejblF2Z - Imgur.png"Optional Title")
 <img src="[pic_trulli.jpg](https://ibb.co/711XgFX)">
 <img src="[pic_trulli.jpg](https://ibb.co/D1G358m)">
 <img src="[pic_trulli.jpg](https://ibb.co/tH9rmW7)">

@@ -4,13 +4,13 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://imgur.com/a/bkEycC1" alt="project-screenshot" width="400" height="400/">
+<blockquote class="imgur-embed-pub" lang="en" data-id="ejblF2Z"><a href="https://imgur.com/ejblF2Z">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-<img src="https://imgur.com/a/qyZ7oI9" alt="project-screenshot" width="400" height="400/">
+<blockquote class="imgur-embed-pub" lang="en" data-id="ydDyFJV"><a href="https://imgur.com/ydDyFJV">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-<img src="https://imgur.com/a/sSsD2ma" alt="project-screenshot" width="400" height="400/">
+<blockquote class="imgur-embed-pub" lang="en" data-id="nKVOnmh"><a href="https://imgur.com/nKVOnmh">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-<img src="https://imgur.com/smirrdr" alt="project-screenshot" width="400" height="400/">
+<blockquote class="imgur-embed-pub" lang="en" data-id="smirrdr"><a href="https://imgur.com/smirrdr">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <h2>🛡️ License:</h2>
 

@@ -14,4 +14,4 @@
 
 <h2>🛡️ License:</h2>
 
-This project is licensed under the free to use policy feel free to clone and some more features to it.
+This project is licensed under the free to use policy, feel free to clone and add some more features to it.
